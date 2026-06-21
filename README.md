@@ -12,7 +12,7 @@
 * To bring all nurses and doctors to provide home visits in time slots its feasible for them.
 
 ## Tools used
-* DJANGO(1.11)
+* DJANGO
 * PYTHON
 * JQUERY
 * GOOGLE API
