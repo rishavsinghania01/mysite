@@ -1,4 +1,4 @@
-# Hakeam
+# Kidney-Donor Matching System
 #### A project aimed for the society
 
 ## Problem Statement
