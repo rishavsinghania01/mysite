@@ -24,6 +24,7 @@ galprefers = {
  'jan':  ['ed', 'hal', 'gav', 'abe', 'bob', 'jon', 'col', 'ian', 'fred', 'dan']}
 
 guys = sorted(guyprefers.keys())
+
 gals = sorted(galprefers.keys())
 
 
